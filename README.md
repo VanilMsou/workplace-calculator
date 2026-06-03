@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./screenshots/logo.png" width="120" alt="职场计算器微信小程序LOGO">
+  <img src="logo.png" width="120" alt="职场计算器微信小程序LOGO">
 </p>
 
 # 职场计算器
@@ -9,7 +9,7 @@
 > 本仓库仅用于产品展示，不包含微信小程序源码。
 
 <p align="center">
-  <img src="./screenshots/qrcode.png" width="180" alt="职场计算器微信小程序码">
+  <img src="qrcode.png" width="180" alt="职场计算器微信小程序码">
 </p>
 
 <p align="center">
