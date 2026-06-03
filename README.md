@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="./screenshots/severance.jpg" width="220" alt="离职补偿计算">
+  <img src="./screenshots/severance.png" width="220" alt="离职补偿计算">
   <img src="./screenshots/overtime.png" width="220" alt="加班费计算">
   <img src="./screenshots/overtime-result.png" width="220" alt="加班费计算结果页">
 </p>
